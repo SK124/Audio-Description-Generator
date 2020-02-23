@@ -79,5 +79,4 @@ However freezing inner layers did not give any good results. Instead we had to u
 * Use of [FastAI](http://fast.ai) library to structure and train the model.
 * Other resources include StackOverflow, Medium and the rest.
 ## Contributors
-*  Sivaramakrishnan
 *  Tejasvi Singh Tomar (https://github.com/tejasvi)
