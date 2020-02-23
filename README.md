@@ -78,3 +78,6 @@ However freezing inner layers did not give any good results. Instead we had to u
 * For data profiling, [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) is used to obtain general overview of data.
 * Use of [FastAI](http://fast.ai) library to structure and train the model.
 * Other resources include StackOverflow, Medium and the rest.
+## Contributors
+*Sivaramakrishnan
+*Tejasvi Singh Tomar(@tejasvi)
